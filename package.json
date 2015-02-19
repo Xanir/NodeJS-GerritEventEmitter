@@ -1,0 +1,27 @@
+{
+	"name": "GerritEventEmitter",
+	"description": "Gerrit Event Emitter",
+	"version": "0.1.1",
+	"homepage": "",
+	"bugs": "",
+	"author": {
+		"name": "Joseph Aspelund",
+		"url": "https://github.com/Xanir"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/EnzeyNet/NodeJS-GerritEventEmitter.git"
+	},
+	"keywords": [
+		"nodejs"
+	],
+	"devDependencies": {
+		"ssh2": "0.4.x",
+		"eventemitter2": "0.4.x"
+	},
+	"devDependencies": {
+	},
+	"files": [
+		"GerritEventEmitter.js"
+	]
+}
