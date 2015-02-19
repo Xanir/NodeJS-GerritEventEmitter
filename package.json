@@ -1,5 +1,5 @@
 {
-	"name": "GerritEventEmitter",
+	"name": "gerrit-event-emitter",
 	"description": "Gerrit Event Emitter",
 	"version": "0.1.1",
 	"homepage": "",
@@ -15,7 +15,7 @@
 	"keywords": [
 		"nodejs"
 	],
-	"devDependencies": {
+	"dependencies": {
 		"ssh2": "0.4.x",
 		"eventemitter2": "0.4.x"
 	},
